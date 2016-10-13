@@ -65,6 +65,6 @@ public class VisitorTest {
 
         System.out.println("Total perimeter = " + totalPerimeter);
 
-        // LambdaVisitor is Util -> wright once use everywhere
+        // LambdaVisitor is Util -> write once use everywhere
     }
 }
